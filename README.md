@@ -19,7 +19,7 @@
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
@@ -84,7 +84,7 @@
       height="40" /> </a> </p>
 
 <br>
-
+-->
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
