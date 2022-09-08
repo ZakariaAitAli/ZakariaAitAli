@@ -31,13 +31,13 @@
   <a href="https://www.instagram.com/zak.aitali/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="zak.aitali" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/zakaria_aitali" target="blank"><img align="center"
+  <!--<a href="https://www.hackerrank.com/zakaria_aitali" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="zakaria ait ali" height="30" width="40" /></a>
+      alt="zakaria ait ali" height="30" width="40" /></a>-->
 </p>
 
 <br>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -79,7 +79,7 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
-
+-->
 <br>
 
 <h3>Statistical Data :-</h3>
