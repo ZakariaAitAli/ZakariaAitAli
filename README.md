@@ -1,11 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat" alt="ZakariaAitAli" /> 
 <h1 align="center">Hi 👋, I'm Zakaria Ait Ali</h1>
 <h3 align="center">Student at Abdelmalek Essaâdi University , Tetouan🌟.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ZakariaAitAli" /> 
-  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/zakaria-ait-ali-76706920b" target="blank"><img align="center"
