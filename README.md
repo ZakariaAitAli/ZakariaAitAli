@@ -44,17 +44,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)
-<p align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="ZakariaAitAli" bg_color=#808080/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="ZakariaAitAli" bg_color=#808080/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ZakariaAitAli" bg_color=#808080/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="ZakariaAitAli" bg_color=#808080/>
+</div>
 
 ## ✍️ Random Dev Quote
 
 <p align="center">
-<img 
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical/" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical/" />
 </p>
 
