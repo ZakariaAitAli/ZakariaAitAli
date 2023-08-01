@@ -1,9 +1,15 @@
-# 💫 About Me :
+# 💫 About Me : ![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 🧑🏻‍💻 Computer Engineering student <br>
 🥷🏼🕵🏻‍♂️ Interested in Programming <br>
 🚀🚀 Exploring ... 
 
-![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
 
 ##   🌐Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/826568651779604532) 
