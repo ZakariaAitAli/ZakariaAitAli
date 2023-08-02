@@ -51,8 +51,8 @@
 
 # 📊 GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="ZakariaAitAli" bg_color=#808080/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="ZakariaAitAli" bg_color=#808080/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="ZakariaAitAli" bg_color=#808080/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ZakariaAitAli" bg_color=#808080/><br>
 </div>
 
