@@ -54,6 +54,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact"/><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&show_icons=true"/><br>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaAitAli)](https://github.com/ZakariaAitAli/github-profile-trophy)
 </div>
 
 ## ✍️ Random Dev Quote
