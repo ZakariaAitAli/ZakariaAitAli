@@ -1,4 +1,7 @@
+---
+
 # 💫 About Me : ![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
+Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for coding. 🚀 Here's a quick rundown of what I'm all about:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/output/github-contribution-grid-snake-dark.svg">
@@ -6,22 +9,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/output/github-contribution-grid-snake.svg">
 </picture>
 
-🧑🏻‍💻 Computer Engineering student <br>
-🥷🏼🕵🏻‍♂️ Interested in Programming <br>
-🚀🚀 Exploring ... 
-
-
-##   🌐Socials :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/826568651779604532) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/100089775910577) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zak.aitali) 
+### 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/826568651779604532)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/100089775910577)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zak.aitali)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zakaria_Ait_Ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariaaitali) 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/zakaria_aitali) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariaaitali)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/zakaria_aitali)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariaaitali555@gmail.com)
 
-# 💻 Tech Stack :
-### Languages :
+### 💻 Tech Stack:
+#### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Frameworks and Libraries :
+#### Frameworks and Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,27 +38,39 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Databases :
+#### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-### Version Control : 
+#### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats :
+### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&show_icons=true"/><br>
+  
+> # **Top Languages:**
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&column=4&margin-w=15&margin-h=15)](https://github.com/ZakariaAitAli/github-profile-trophy)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact)
+
+> # **GitHub Stats:**
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true)
+
+> # **GitHub Streak:**
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&show_icons=true)
+
+> # **Trophies**
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&column=9&margin-w=30&margin-h=30)](https://github.com/ZakariaAitAli/github-profile-trophy)
+
 </div>
 
-## ✍️ Random Dev Quote
-
+### ✍️ Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical/" />
 </p>
 
+Feel free to connect or drop me a message! Let's code and explore together. 🚀✨
