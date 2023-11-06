@@ -1,7 +1,10 @@
+<div align="center">
+  
 > # 💫 About Me : ![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
 
 Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for coding. 🚀 Here's a quick rundown of what I'm all about:
 
+  
 [![GIF Pic](https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/main/resources/code.gif)](https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/main/resources/code.gif)
 
 <picture>
@@ -9,6 +12,8 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/826568651779604532)
