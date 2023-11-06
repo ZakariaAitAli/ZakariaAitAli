@@ -1,7 +1,8 @@
----
-
 > # 💫 About Me : ![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
+
 Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for coding. 🚀 Here's a quick rundown of what I'm all about:
+
+[![GIF Pic](https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/main/resources/code.gif)](https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/main/resources/code.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaAitAli/ZakariaAitAli/output/github-contribution-grid-snake-dark.svg">
