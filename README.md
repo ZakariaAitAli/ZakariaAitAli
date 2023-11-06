@@ -1,6 +1,6 @@
 ---
 
-# 💫 About Me : ![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
+> # 💫 About Me : ![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
 Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for coding. 🚀 Here's a quick rundown of what I'm all about:
 
 <picture>
@@ -47,7 +47,6 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 GitHub Stats:
 <div align="center">
   
 > # **Top Languages:**
@@ -56,7 +55,7 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
 
 > # **GitHub Stats:**
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli\&include_all_commits=true\&rank_icon=percentile)
 
 > # **GitHub Streak:**
 
