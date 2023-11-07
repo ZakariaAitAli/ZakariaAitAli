@@ -57,20 +57,22 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
   
 > # **Top Languages:**
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact&theme=transparent&hide_border=true&border_radius=10)
 
 > # **GitHub Stats:**
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli\&include_all_commits=true\&rank_icon=percentile)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli\&include_all_commits=true\&rank_icon=percentile&theme=transparent&hide_border=true&border_radius=10)
 
 > # **GitHub Streak:**
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZakariaAitAli&theme=transparent&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 > # **Trophies**
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&column=9&margin-w=30&margin-h=30)](https://github.com/ZakariaAitAli/github-profile-trophy)
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&theme=algolia&column=9&margin-w=30&margin-h=30">
+ <img alt="Trophies Light Mode" src="https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&theme=transparent&column=9&margin-w=30&margin-h=30">
+</picture>
 </div>
 
 ### ✍️ Random Dev Quote:
