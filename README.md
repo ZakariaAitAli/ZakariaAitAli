@@ -54,20 +54,15 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
+
+> # 📊 **GitHub Analytics:**
   
-> # **Top Languages:**
+| **GitHub Stats:** | **Top Languages:** | **GitHub Streak:** |
+| ----------- | ----------- | ----------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli\&include_all_commits=true\&rank_icon=percentile&theme=transparent&hide_border=true&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact&theme=transparent&hide_border=true&border_radius=10) | [![GitHub Streak](https://streak-stats.demolab.com?user=ZakariaAitAli&theme=transparent&hide_border=true&border_radius=10)](https://git.io/streak-stats) |
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact&theme=transparent&hide_border=true&border_radius=10)
 
-> # **GitHub Stats:**
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli\&include_all_commits=true\&rank_icon=percentile&theme=transparent&hide_border=true&border_radius=10)
-
-> # **GitHub Streak:**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZakariaAitAli&theme=transparent&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-> # **Trophies**
+> # 🏆 **Trophies**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&theme=algolia&column=9&margin-w=30&margin-h=30">
