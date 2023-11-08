@@ -37,7 +37,7 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
 
 | **GitHub Stats:** | **Top Languages:** |
 | ----------- | ----------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli\&include_all_commits=true\&rank_icon=percentile&theme=transparent&hide_border=true&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact&theme=transparent&hide_border=true&border_radius=10) |
+| ![GitHub Stats](https://github-readme-stats-zakaria-aitali.vercel.app/api?username=ZakariaAitAli\&include_all_commits=true\&rank_icon=percentile&theme=transparent&hide_border=true&border_radius=10) | ![Top Languages](https://github-readme-stats-zakaria-aitali.vercel.app/api/top-langs?username=ZakariaAitAli&show_icons=true&layout=compact&theme=transparent&hide_border=true&border_radius=10) |
 
 | **GitHub Streak:** |
 | ----------- |
