@@ -55,6 +55,7 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
  <img alt="Trophies Light Mode" src="https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&theme=transparent&column=9&margin-w=30&margin-h=30">
 </picture>
 
+<!-- 
 ---
 
 > # 💻 Tech Stack:
@@ -73,6 +74,7 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
 |  | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |  |  |
 |  | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)|  |  |
 
+-->
 ---
 
 > # ✍️ Random Dev Quote:
