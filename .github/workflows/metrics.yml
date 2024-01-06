@@ -58,14 +58,6 @@ jobs:
           plugin_anilist_user: .user.login
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_chess: yes
-          plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
-          plugin_chess_user: .user.login
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
@@ -149,27 +141,6 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-  "url": "https://skyline.github.com/${login}/${year}",
-  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-  "wait": 1,
-  "hide": "button, footer, a"
-}
-
-          plugin_skyline_year: current-year
           plugin_splatoon: yes
           plugin_splatoon_salmon_limit: 1
           plugin_splatoon_sections: player, versus, salmon-run
@@ -216,10 +187,3 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_limit: 2
           plugin_tweets_user: .user.twitter
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
