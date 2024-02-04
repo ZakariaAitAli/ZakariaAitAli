@@ -1,3 +1,50 @@
+# Zakaria Ait Ali - Full Stack Developer and Machine Learning Enthusiast
+
+![GitHub followers](https://img.shields.io/github/followers/ZakariaAitAli?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/ZakariaAitAli?style=social) ![Medium](https://img.shields.io/badge/Medium-ZakariaAitAli-blue) ![YouTube](https://img.shields.io/badge/YouTube-ZakariaAitAli-red)
+
+Hi, I'm Zakaria, a full stack developer and machine learning enthusiast from Morocco. I love creating web applications that solve real-world problems using cutting-edge technologies. I'm always eager to learn new things and collaborate with other developers.
+
+![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true&theme=radical)
+
+![Zakaria's GitHub trophies](https://github-profile-trophy.vercel.app/?username=ZakariaAitAli&theme=dracula)
+
+## My Projects
+
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| Face Mask Detection | A web app that detects if a person is wearing a face mask or not using TensorFlow.js and React. | [Face Mask Detection] |
+| Movie Recommender | A web app that recommends movies based on user preferences using Flask and scikit-learn. | [Movie Recommender] |
+| Chatbot | A chatbot that answers questions about COVID-19 using Rasa and spaCy. | [Chatbot] |
+
+## Contact Me
+
+If you want to collaborate with me, hire me, or just say hi, feel free to contact me at zakariaaitali@gmail.com. You can also check out my portfolio website at https://zakariaaitali.github.io/, or my resume at https://zakariaaitali.github.io/resume.pdf.
+
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-ZakariaAitAli-green)](mailto:zakariaaitali@gmail.com)
+
+## About Me
+
+- I'm a self-taught developer who started coding when I was 15 years old.
+- I'm currently pursuing a bachelor's degree in computer science at the University of Tétouan.
+- I'm interested in web development, machine learning, natural language processing, computer vision, and data science.
+- I enjoy reading books, watching movies, playing chess, and listening to music.
+- My favorite quote is "The only way to do great work is to love what you do." - Steve Jobs.
+
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/ZakariaAitAli)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default).
+
+Source: Conversation with Bing, 1/2/2024
+(1) How to Create an Impressive GitHub Profile README - SitePoint. https://www.sitepoint.com/github-profile-readme/.
+(2) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
+(3) GitHub - banesullivan/README: How to write a good README. https://github.com/banesullivan/README.
+(4) How To Create A GitHub Profile README | monica*dev. https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/.
+(5) How To Write A Good README File - DEV Community. https://dev.to/boiliev/how-to-write-a-good-readme-file-2c0d.
+(6) undefined. https://github.com/new.
+(7) en.wikipedia.org. https://en.wikipedia.org/wiki/README.
+
+
+
 <div align="center">
 
 ---
