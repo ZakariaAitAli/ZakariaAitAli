@@ -1,5 +1,3 @@
-<div align="center">
-
 ---
   
 > # 💫 About Me : ![ProfileViews](https://komarev.com/ghpvc/?username=ZakariaAitAli&label=Profile%20views&color=0e75b6&style=flat)
@@ -84,6 +82,3 @@ Hey folks! 👋 I'm Zakaria, a computer engineering student with a passion for c
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical/)
 
 Feel free to connect or drop me a message! Let's code and explore together. 🚀✨
-
-</div>
-
