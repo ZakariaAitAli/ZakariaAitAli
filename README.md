@@ -1,4 +1,7 @@
 <h1>Zakaria Ait Ali - Software Engineer </h1>
+<p>
+  <img src="https://img.shields.io/github/last-commit/ZakariaAitAli/ZakariaAitAli?color=blue" />
+</p>
 
 <img src="https://img.shields.io/github/followers/ZakariaAitAli?style=social" alt="GitHub followers"> <img src="https://img.shields.io/twitter/follow/ZakariaAitAli?style=social" alt="Twitter Follow">
 
