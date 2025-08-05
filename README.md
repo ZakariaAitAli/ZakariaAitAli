@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zakaria Ait Ali
 
 🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🛠️ Startup Builder  
-📍 Based in Agadir, Morocco | 💼 Currently at Lotel Partners
+📍 Based in Morocco | 💼 Currently at Lotel Partners
 
 ---
 
