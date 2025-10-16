@@ -42,19 +42,6 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 
 ---
 
-### 🧩 Featured Work
-
-#### **Zero-to-Prod Platform**
-A personal project to automate the full lifecycle of production-ready cloud infrastructure — bringing together Terraform, Argo CD, and Kubernetes for rapid startup deployment.
-
-#### **Lotel Cloud Platform**
-End-to-end EKS environment with Terraform modules for networking, IAM, node groups, and GitOps-based application delivery.
-
-#### **Independent Projects**
-Working on early-stage SaaS tools for retail management and education — applying DevOps and cloud principles to real-world Moroccan businesses.
-
----
-
 ### 🎓 Education & Certifications
 
 🎓 **Engineering Degree in Computer Science (SIAD)**  
