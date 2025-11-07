@@ -67,7 +67,7 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 </a>
 
 <a href="https://github.com/ZakariaAitAli">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAitAli&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-chi-peach.vercel.app?user=" alt="GitHub Streak" />
 </a>
 
 ---
