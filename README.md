@@ -62,14 +62,19 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 ### 📊 GitHub Stats & Activity
 
 <a href="https://github.com/ZakariaAitAli">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Zakaria's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</a>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&theme=dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&theme=default&count_private=true" alt="Zakaria's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=default" alt="Top languages" />
+</picture>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli&date_format=j%20M%5B%20Y%5D&theme=dark" />
     <img src="https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli&date_format=j%20M%5B%20Y%5D&theme=default" />
 </picture>
+</a>
 
 ---
 
