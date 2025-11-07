@@ -66,9 +66,7 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </a>
 
-<a href="https://github.com/ZakariaAitAli">
-  <img src="https://github-readme-streak-stats-chi-peach.vercel.app?user=" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli)](https://git.io/streak-stats)
 
 ---
 
