@@ -63,12 +63,12 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 
 <a href="https://github.com/ZakariaAitAli">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&theme=dark&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakariaAitAli&theme=default&count_private=true" alt="Zakaria's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mocha-chi-77.vercel.app/api?username=ZakariaAitAli&theme=dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-mocha-chi-77.vercel.app/api?username=ZakariaAitAli&theme=default&count_private=true" alt="Zakaria's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=default" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mocha-chi-77.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats-mocha-chi-77.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=default" alt="Top languages" />
 </picture>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli&date_format=j%20M%5B%20Y%5D&theme=dark" />
