@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm **Zakaria Ait Ali**
+# Hi, I'm **Zakaria Ait Ali**
 
-### 🚀 DevOps Engineer | ☁️ Cloud Architect | 🧠 Platform Builder  
-📍 Morocco | 💼 Currently @ **Lotel Partners**
+### DevOps Engineer | Cloud Architect | Platform Builder  
+Morocco | Currently @ **Lotel Partners**
 
 ---
 
 </div>
 
-### 🧭 About Me
+### About Me
 
 I’m a **DevOps Engineer** specializing in **cloud infrastructure, automation, and scalability**.  
 I design and maintain **production-grade platforms** powered by AWS, Terraform, and Kubernetes — systems built for reliability, cost efficiency, and developer velocity.
@@ -21,33 +21,33 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 
 ---
 
-### 📘 Currently Learning
+### Currently Learning
 
-- 🔬 **Kubernetes Internals & Cluster Scheduling**
-- 💰 **Cloud Cost Optimization & FinOps Practices**
-- 🧩 **Advanced Terraform Design Patterns**
-- 🧠 **Building Developer Platforms (IDPs)**
-- 🚀 **Startup Infrastructure Automation**
-
----
-
-### ⚙️ Core Expertise
-
-- ☁️ **Cloud:** AWS · OCI  
-- 🧱 **IaC:** Terraform · Helm · Ansible  
-- 🚀 **CI/CD & GitOps:** GitHub Actions · Argo CD  
-- 🐳 **Containers:** Docker · Kubernetes  
-- 📊 **Monitoring:** Prometheus · Grafana · Elastic Stack (ECK)  
-- 💻 **Languages:** Bash · Python · Java · TypeScript  
+- **Kubernetes Internals & Cluster Scheduling**
+- **Cloud Cost Optimization & FinOps Practices**
+- **Advanced Terraform Design Patterns**
+- **Building Developer Platforms (IDPs)**
+- **Startup Infrastructure Automation**
 
 ---
 
-### 🎓 Education & Certifications
+### Core Expertise
 
-🎓 **Engineering Degree in Computer Science (SIAD)**  
+- **Cloud:** AWS · OCI  
+- **IaC:** Terraform · Helm · Ansible  
+- **CI/CD & GitOps:** GitHub Actions · Argo CD  
+- **Containers:** Docker · Kubernetes  
+- **Monitoring:** Prometheus · Grafana · Elastic Stack (ECK)  
+- **Languages:** Bash · Python · Java · TypeScript  
+
+---
+
+###  Education & Certifications
+
+**Engineering Degree in Computer Science (SIAD)**  
 **ENSA Tétouan** – Information Systems & Decision Support  
 
-🏅 **Professional Certifications**
+**Professional Certifications**
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/260ea192-22a9-4d76-9ba4-87c7e255b535/public_url)  
 - [OCI 2024 Certified Architect Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=89AF461852C1F853ACB1B04D2F5C154CE89CFB62144CBB20DC69008B273716E1)  
@@ -59,7 +59,7 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 
 <div align="center">
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <a href="https://github.com/ZakariaAitAli">
 <picture>
@@ -78,7 +78,7 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Zakaria%20Ait%20Ali-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariaaitali/)
 [![GitHub badge](https://img.shields.io/badge/GitHub-ZakariaAitAli-black?style=flat-square&logo=github&logoColor=white)](https://github.com/ZakariaAitAli)
