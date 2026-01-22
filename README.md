@@ -3,7 +3,6 @@
 # Hi, I'm **Zakaria Ait Ali**
 
 ### DevOps Engineer | Cloud Architect | Platform Builder  
-Morocco | Currently @ **Lotel Partners**
 
 ---
 
