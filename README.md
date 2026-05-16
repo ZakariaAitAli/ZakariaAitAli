@@ -2,63 +2,90 @@
 
 # Hi, I'm **Zakaria Ait Ali**
 
-### DevOps Engineer | Cloud Architect | Platform Builder  
+### DevOps Engineer · Cloud Engineer · Platform Engineering Enthusiast
+
+I build cloud infrastructure, automate delivery workflows, and help teams ship software more reliably.
 
 ---
 
 </div>
 
-### About Me
+## About Me
 
-I’m a **DevOps Engineer** specializing in **cloud infrastructure, automation, and scalability**.  
-I design and maintain **production-grade platforms** powered by AWS, Terraform, and Kubernetes — systems built for reliability, cost efficiency, and developer velocity.
+I'm a **DevOps / Cloud Engineer** focused on building reliable, scalable, and developer-friendly infrastructure.
 
-At **Lotel Partners**, I lead the design of a **multi-environment EKS platform** integrating Terraform, Argo CD, and GitHub Actions to enable full GitOps delivery.  
-My daily work bridges development and operations — empowering teams to deploy, scale, and monitor applications with confidence.
+My work revolves around **AWS, Kubernetes, Terraform, CI/CD, GitOps, observability, and cloud cost optimization**. I enjoy working at the intersection of infrastructure, automation, and software delivery — turning complex deployment workflows into systems that are easier to operate, monitor, and improve.
 
-Beyond my role, I’m exploring **platform engineering**, **infrastructure automation**, and **startup-grade cloud systems** — building the foundation for scalable digital products.
+I’m especially interested in **platform engineering** and **internal developer platforms**, where infrastructure becomes a product that helps developers move faster without sacrificing reliability, security, or cost control.
 
----
-
-### Currently Learning
-
-- **Kubernetes Internals & Cluster Scheduling**
-- **Cloud Cost Optimization & FinOps Practices**
-- **Advanced Terraform Design Patterns**
-- **Building Developer Platforms (IDPs)**
-- **Startup Infrastructure Automation**
+Currently, I’m working on cloud infrastructure, deployment automation, CI/CD modernization, and local development environment standardization.
 
 ---
 
-### Core Expertise
+## What I'm Focused On
 
-- **Cloud:** AWS · OCI  
-- **IaC:** Terraform · Helm · Ansible  
-- **CI/CD & GitOps:** GitHub Actions · Argo CD  
-- **Containers:** Docker · Kubernetes  
-- **Monitoring:** Prometheus · Grafana · Elastic Stack (ECK)  
-- **Languages:** Bash · Python · Java · TypeScript  
+- Building and improving **cloud infrastructure on AWS**
+- Designing better **CI/CD and GitOps workflows**
+- Working with **Kubernetes, ECS, Terraform, and Argo CD**
+- Improving **developer experience through platform engineering**
+- Strengthening **observability, reliability, and cost visibility**
+- Creating reproducible local and cloud environments
 
 ---
 
-###  Education & Certifications
+## Currently Learning
 
-**Engineering Degree in Computer Science (SIAD)**  
-**ENSA Tétouan** – Information Systems & Decision Support  
+- Kubernetes internals and cluster operations
+- Advanced Terraform design patterns
+- Platform engineering and Internal Developer Platforms
+- Cloud cost optimization and FinOps practices
+- Production-grade infrastructure design
+- CI/CD optimization and self-hosted runners
 
-**Professional Certifications**
+---
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/260ea192-22a9-4d76-9ba4-87c7e255b535/public_url)  
-- [OCI 2024 Certified Architect Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=89AF461852C1F853ACB1B04D2F5C154CE89CFB62144CBB20DC69008B273716E1)  
-- [OCI 2024 Certified DevOps Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8E20BACE8AFBD4349F1B3732598E89DA11428E2FFE34534F46F764DB95E0AFDC)  
-- [OCI 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8E20BACE8AFBD4349F1B3732598E89DACDBF5EE9C8535A2021BF4C80638D5110)  
+## Core Skills
+
+### Cloud & Infrastructure
+
+AWS · OCI · Terraform · Kubernetes · ECS · EKS · Docker · Helm · Ansible
+
+### CI/CD & GitOps
+
+GitHub Actions · Argo CD · Drone CI · GitOps workflows · Deployment automation
+
+### Observability & Operations
+
+Prometheus · Grafana · CloudWatch · Elastic Stack · Logging · Monitoring · Alerting
+
+### Programming & Scripting
+
+Bash · Python · Go · Java · TypeScript
+
+### Areas of Interest
+
+Platform Engineering · DevOps Automation · Cloud Cost Optimization · Developer Experience · Startup Infrastructure
+
+---
+
+## Education & Certifications
+
+**Engineering Degree in Computer Science — SIAD**  
+**ENSA Tétouan** — Information Systems & Decision Support
+
+### Professional Certifications
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/260ea192-22a9-4d76-9ba4-87c7e255b535/public_url)
+- [OCI 2024 Certified Architect Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=89AF461852C1F853ACB1B04D2F5C154CE89CFB62144CBB20DC69008B273716E1)
+- [OCI 2024 Certified DevOps Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8E20BACE8AFBD4349F1B3732598E89DA11428E2FFE34534F46F764DB95E0AFDC)
+- [OCI 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8E20BACE8AFBD4349F1B3732598E89DACDBF5EE9C8535A2021BF4C80638D5110)
 - [Oracle Certified Professional: Java SE 21 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AEAEF77EC4765F06C405B3D3CC4019DB99A22CBF8E192D23325F5D3CD16BCE26)
 
 ---
 
 <div align="center">
 
-### GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <a href="https://github.com/ZakariaAitAli">
 <picture>
@@ -70,14 +97,14 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
   <img height="160em" src="https://github-readme-stats-mocha-chi-77.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=default" alt="Top languages" />
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli&date_format=j%20M%5B%20Y%5D&theme=dark" />
-    <img src="https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli&date_format=j%20M%5B%20Y%5D&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli&date_format=j%20M%5B%20Y%5D&theme=dark" />
+  <img height="160em" src="https://github-readme-streak-stats-chi-peach.vercel.app?user=ZakariaAitAli&date_format=j%20M%5B%20Y%5D&theme=default" alt="GitHub streak" />
 </picture>
 </a>
 
 ---
 
-### Let’s Connect
+## Let's Connect
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Zakaria%20Ait%20Ali-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariaaitali/)
 [![GitHub badge](https://img.shields.io/badge/GitHub-ZakariaAitAli-black?style=flat-square&logo=github&logoColor=white)](https://github.com/ZakariaAitAli)
@@ -85,6 +112,6 @@ Beyond my role, I’m exploring **platform engineering**, **infrastructure autom
 
 ---
 
-> _“Build infrastructure that frees developers to build products.”_
+> _“Build infrastructure that helps developers move faster with confidence.”_
 
 </div>
