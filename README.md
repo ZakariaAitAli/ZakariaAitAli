@@ -2,7 +2,7 @@
 
 # Hi, I'm **Zakaria Ait Ali**
 
-## DevOps Engineer · Cloud Engineer · Platform Engineering Enthusiast
+## DevOps Engineer · Cloud Engineer
 
 I build cloud infrastructure, automate delivery workflows, and help teams ship software more reliably.
 
