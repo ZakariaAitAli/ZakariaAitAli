@@ -14,7 +14,8 @@ I build cloud infrastructure, automate delivery workflows, and help teams ship s
 
 I'm a **DevOps / Cloud Engineer** focused on building reliable, scalable, and developer-friendly infrastructure.
 
-My work revolves around **AWS, Kubernetes, Terraform, CI/CD, GitOps, observability, and cloud cost optimization**. I enjoy working at the intersection of infrastructure, automation, and software delivery — turning complex deployment workflows into systems that are easier to operate, monitor, and improve.
+My work revolves around **AWS, Kubernetes, Terraform, CI/CD, GitOps, observability, and cloud cost optimization**. 
+I enjoy working at the intersection of infrastructure, automation, and software delivery — turning complex deployment workflows into systems that are easier to operate, monitor, and improve.
 
 I’m especially interested in **platform engineering** and **internal developer platforms**, where infrastructure becomes a product that helps developers move faster without sacrificing reliability, security, or cost control.
 
