@@ -90,8 +90,8 @@ Platform Engineering · DevOps Automation · Cloud Cost Optimization · Develope
 
 <a href="https://github.com/ZakariaAitAli">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mocha-chi-77.vercel.app/api?username=ZakariaAitAli&theme=dark&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-mocha-chi-77.vercel.app/api?username=ZakariaAitAli&theme=default&count_private=true" alt="Zakaria's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mocha-chi-77.vercel.app/api?username=ZakariaAitAli&theme=dark&count_private=true&v=2" />
+  <img height="160em" src="https://github-readme-stats-mocha-chi-77.vercel.app/api?username=ZakariaAitAli&theme=default&count_private=true&v=2" alt="Zakaria's GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mocha-chi-77.vercel.app/api/top-langs/?username=ZakariaAitAli&layout=compact&theme=dark" />
